@@ -17,9 +17,10 @@ body {
     font-size: 1.5em;
   }
   
-  #card div {
+  #card div, #card p {
     padding:1em;
   }
+  
   
   #card ul { 
     list-style: none;
@@ -32,6 +33,4 @@ body {
     border: 1px solid gray;
     margin: .5em 0;
     border-radius: 3px;
-  }
-  
-  
+  }  
